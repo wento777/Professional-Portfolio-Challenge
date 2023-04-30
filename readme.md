@@ -76,17 +76,21 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Tests
 
   none
+  
+  # The URL of the deployed application.
 
-
+* file:///C:/Users/flore/OneDrive/Documents/Professional-Portfolio-Challenge/index.html
   
 
   # This project has been deployed to GitHub, here is the link:
 
   *  
   
-  Professional-Portfolio-Challenge Screenshot:
+  # Professional-Portfolio-Challenge Screenshots:
   
-  * 
+  * ![Screenshot (75)](https://user-images.githubusercontent.com/70625665/235337093-d55d801d-497d-482f-b9ee-dc77ac00d164.png)
+
+* ![Screenshot (76)](https://user-images.githubusercontent.com/70625665/235337103-b3a3dc20-2b1d-4d5f-bbda-aad972f5b2fe.png)
 
 
 
