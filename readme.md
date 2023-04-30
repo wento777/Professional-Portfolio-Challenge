@@ -79,7 +79,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
   
   # The URL of the deployed application.
 
-* 
+* https://wento777.github.io/Professional-Portfolio-Challenge/ 
   
 
   # This project has been deployed to GitHub, here is the link:
