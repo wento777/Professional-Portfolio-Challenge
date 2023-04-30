@@ -79,7 +79,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
   
   # The URL of the deployed application.
 
-* file:///C:/Users/flore/OneDrive/Documents/Professional-Portfolio-Challenge/index.html
+* 
   
 
   # This project has been deployed to GitHub, here is the link:
