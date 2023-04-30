@@ -84,7 +84,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
   # This project has been deployed to GitHub, here is the link:
 
-  *  
+  *  https://github.com/wento777/Professional-Portfolio-Challenge
   
   # Professional-Portfolio-Challenge Screenshots:
   
